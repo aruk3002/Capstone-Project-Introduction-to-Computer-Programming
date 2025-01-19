@@ -1,6 +1,3 @@
-# Capstone-Project-Introduction-to-Computer-Programming
-
-
 # 🎓 Capstone Project: Introduction to Computer Programming 🚀  
 
 I’m excited to share my **Capstone Project** from the *Introduction to Computer Programming* module, which is part of my journey in mastering **Data Science**! This project highlights my foundational programming skills, which serve as a crucial stepping stone in exploring more advanced data-driven concepts.  
