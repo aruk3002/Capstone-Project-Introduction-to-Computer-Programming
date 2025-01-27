@@ -14,3 +14,5 @@ This project marks an important milestone in my Data Science learning path. By a
 Feel free to browse through the code and insights in this project! Feedback, collaboration, and discussions are always welcome.  
 
 This is just the beginning of an exciting journey in **Data Science**, and I’m eager to connect with others to grow and learn together! 🌟  
+
+Google colab noteboob Link - https://colab.research.google.com/drive/1cf093ChxMhT9_7tautQrCi4vTmROmeIS?usp=sharing
